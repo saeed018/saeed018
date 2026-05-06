@@ -14,6 +14,7 @@
 * ⭕Circle CI/CD
 * 🛳️Docker/Kubernetes
 * 🪈Fast API/ Rest API
+* LLM
 
 ## Additional information 
 - 🏀 I've completed my MS in Computer Science from University of Kansas with a focus in ML, Deep Learning, Biometric and Computer Vision.
