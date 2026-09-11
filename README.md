@@ -22,6 +22,6 @@
 - 📫 How to reach me: saeedali018@yahoo.com
 - 👍 Portfolio: https://www.linkedin.com/in/md-abu-saeed-303ab7276/
 - 😄 Pronouns: he/him/his 
-- ⚡ Fun fact: I can speak Bangla, English, Hindi and read Arabic
+- ⚡ Fun fact: I can speak Bangla and English.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saeed018)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-abu-saeed-303ab7276/)  
